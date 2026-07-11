@@ -1,0 +1,2 @@
+# repository-project-ringkasan-paper-molecular-mechanisms-of-Phytochemicals-from-chaga-mushroom
+Penelitian ini mengeksplorasi potensi jamur Chaga sebagai terapi kanker kolorektal (CRC) melalui pendekatan farmakologi jaringan dan bioinformatika. Meskipun bersifat prediktif dan memerlukan validasi in-vitro maupun in-vivo, studi ini berhasil memetakan mekanisme molekuler jamur Chaga secara bioinformatika.
