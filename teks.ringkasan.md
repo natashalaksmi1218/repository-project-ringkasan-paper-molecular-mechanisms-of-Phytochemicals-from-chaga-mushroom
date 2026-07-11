@@ -7,6 +7,6 @@ Ditemukan 26 komponen bioaktif dan 319 target dari jamur Chaga ditemukan, dengan
 Kelebihan dari penelitian ini yaitu mampu mengidentifikasi komponen bioaktif, kandidat target, serta menentukan core target yang membangun hipotesis penelitian lebih lanjut. Namun, keterbatasannya yaitu hasil masih bersifat prediktif dan perlu dibuktikan menggunakan metode uji in vitro dan in vivo untuk membuktikan hipotesis penelitian ini. Selain itu, docking hanya menilai sebagian pasangan senyawa target dan tidak mencakup semua kemungkinan interaksi, serta belum membandingkan anti-tumor pada tipe kanker yang lainnya.
 Paper ini menarik karena melibatkan terapan bioinformatika untuk menjelaskan mekanisme molekuler fitokimia dari jamur Chaga terhadap CRC. Penemuan ini mengidentifikasi beberapa senyawa bioaktif, target potensial, dan jalur yang terlibat dalam efek antikanker kolorektal. Dari sini kita belajar bahwa teknologi memudahkan dalam prediksi potensi senyawa dengan menggunakan network pharmacology untuk mendekode mekanisme herbal yang kompleks secara sistematis, sebelum masuk ke tahapan uji in-vitro dan in vivo yang lebih kompleks.
 
-![A descriptive alt text for accessibility](https://example.com/image.jpg)
+![Metode dan Hasil](metode.png)
 
 
